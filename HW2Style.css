@@ -1,0 +1,50 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #263238;
+    margin: 0;
+}
+
+.navbar {
+    padding: 15px 0;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #1f3a5f;
+    color: white;
+}
+
+main {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+a {
+    color: #1769aa;
+}
+
+body.dark-mode {
+    background-color: #212529;
+    color: #f8f9fa;
+}
+
+    body.dark-mode section,
+    body.dark-mode .card {
+        background-color: #343a40;
+        color: #f8f9fa;
+    }
+
+    body.dark-mode .card-title,
+    body.dark-mode .card-text {
+        color: #f8f9fa;
+    }

@@ -1,0 +1,27 @@
+[
+    {
+        "title": "SQL Data Analysis",
+        "category": "Database",
+        "description": "Used SQL queries to retrieve, filter, and analyze business data."
+    },
+    {
+        "title": "Python Programming",
+        "category": "Programming",
+        "description": "Practiced programming concepts and problem-solving using Python."
+    },
+    {
+        "title": "Excel Business Analysis",
+        "category": "Analytics",
+        "description": "Used Excel to organize data and perform business analysis."
+    },
+    {
+        "title": "Database Design",
+        "category": "Database",
+        "description": "Worked with tables, relationships, and database queries."
+    },
+    {
+        "title": "C# Programming",
+        "category": "Programming",
+        "description": "Applied programming concepts to build solutions using C#."
+    }
+]
